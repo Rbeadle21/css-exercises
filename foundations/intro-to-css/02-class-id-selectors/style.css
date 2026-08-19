@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.number-one,
+.number-three,
+.number-five {
+    color:black;
+    background-color: rgb(243, 148, 148);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
