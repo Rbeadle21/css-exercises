@@ -2,7 +2,7 @@
 
 .adjust-font {
     font-size: 28px;
-    font: Helvetica, "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 #black-button {
